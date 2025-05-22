@@ -6,5 +6,5 @@ to let css be not perfect enough and thus creation of it would've taken a millen
 
 # Features
 
-You can create posts, comments and messages. You can also edit and delete them.<br>
+You can create posts, comments and messages. You can edit and delete them as well.<br>
 You can also change your avatar to a cat picture (or whatever you have in your downloads)
