@@ -1,0 +1,64 @@
+/* Avatar sizes */
+.avatar {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+}
+
+.avatar-sm {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+}
+
+.avatar-lg {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.avatar-xl {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+/* For avatar placeholders */
+.avatar, .avatar-sm, .avatar-lg, .avatar-xl {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+/* Message content formatting */
+.message-content {
+    white-space: pre-line;
+}
+
+/* Card hover effects */
+.list-group-item-action:hover {
+    background-color: rgba(0, 123, 255, 0.05);
+}
+
+/* Footer styling */
+footer {
+    margin-top: 3rem;
+
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+/* Custom container padding */
+.container {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+/* Sticky sidebar */
+.sticky-top {
+    top: 1rem;
+}
