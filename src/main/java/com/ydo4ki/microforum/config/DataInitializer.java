@@ -72,7 +72,7 @@ public class DataInitializer implements CommandLineRunner {
 				.password(passwordEncoder.encode("black_sacrifice...THE_ROOOOOOOOOK"))
 				.role(Role.USER)
 				.bio("Why the heck am i the rook")
-				.avatarPath("/uploads/avatars/67dd4c3e-6ea8-4f06-9a11-6f284ee347d8.png")
+				.avatarPath("/uploads/avatars/67dd4c3e-6ea8-4f06-9a11-6f284ee347d8.jpg")
 				.createdAt(LocalDateTime.now())
 				.updatedAt(LocalDateTime.now())
 				.build();
